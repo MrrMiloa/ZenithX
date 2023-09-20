@@ -1,14 +1,25 @@
 
 ![Logo pling](https://github.com/MrrMiloa/ZenithX/assets/119014113/7e4e6470-3269-49b0-af4e-faa3dfe8e07d)
-Installation steps
+### Installation steps
 - Flash rom 
 - Format data
 
-LINK to DOWNLOAD:
-https://devuploads.com/fdtjni00axit
+### [Download rom](https://devuploads.com/fdtjni00axit).
+
+### Changelog importants
+- Rom odex
+- Pixel props + netflix spoofs
+- Unlock All permissions
+- MiuiPackageInstaller
+- Unlock 90fps
+- MiSans for default
+- etc
 
 
-THIS ROM INCLUDE:
+
+
+
+### THIS ROM INCLUDE:
 ![photo_1_2023-09-20_09-36-33](https://github.com/MrrMiloa/ZenithX/assets/119014113/7764daa8-05b1-40dc-b245-363d8375fa34)
 ![photo_3_2023-09-20_09-36-33](https://github.com/MrrMiloa/ZenithX/assets/119014113/5d44c54f-8922-4a26-84e1-4b2e581ce896)
 ![photo_4_2023-09-20_09-36-33](https://github.com/MrrMiloa/ZenithX/assets/119014113/f3c6e200-ff7f-44ff-b6db-693802930d9c)
