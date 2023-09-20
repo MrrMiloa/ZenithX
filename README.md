@@ -1,5 +1,6 @@
 
-![Logo pling](https://github.com/MrrMiloa/ZenithX/assets/119014113/7e4e6470-3269-49b0-af4e-faa3dfe8e07d)
+![Surya github](https://github.com/MrrMiloa/ZenithX-Surya/assets/119014113/3f351795-b7b6-4dd7-a190-10482a20e67a)
+
 ### Installation steps
 - Flash rom 
 - Format data
